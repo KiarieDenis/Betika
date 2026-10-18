@@ -15,8 +15,8 @@
     "Fixture_ID": "1196814",
     "Match_URL": "https://www.predictz.com/predictions/england/premier-league/1196814/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -34,8 +34,8 @@
     "Fixture_ID": "1202628",
     "Match_URL": "https://www.predictz.com/predictions/spain/la-liga/1202628/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -53,8 +53,8 @@
     "Fixture_ID": "1203488",
     "Match_URL": "https://www.predictz.com/predictions/spain/segunda-division/1203488/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -72,8 +72,8 @@
     "Fixture_ID": "1215724",
     "Match_URL": "https://www.predictz.com/predictions/italy/serie-c/1215724/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -85,14 +85,14 @@
     "Away_Form": "DWDDW",
     "Prediction": "Draw",
     "Predicted_Score": "0-0",
-    "Odd_1": "4.45",
-    "Odd_X": "3.30",
-    "Odd_2": "1.80",
+    "Odd_1": "4.60",
+    "Odd_X": "3.40",
+    "Odd_2": "1.76",
     "Fixture_ID": "1215780",
     "Match_URL": "https://www.predictz.com/predictions/italy/serie-c/1215780/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -104,14 +104,14 @@
     "Away_Form": "DWDDW",
     "Prediction": "Draw",
     "Predicted_Score": "0-0",
-    "Odd_1": "5.60",
-    "Odd_X": "3.60",
-    "Odd_2": "1.60",
+    "Odd_1": "5.40",
+    "Odd_X": "3.65",
+    "Odd_2": "1.62",
     "Fixture_ID": "1215738",
     "Match_URL": "https://www.predictz.com/predictions/italy/serie-c/1215738/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -123,14 +123,14 @@
     "Away_Form": "DLWWL",
     "Prediction": "Draw",
     "Predicted_Score": "0-0",
-    "Odd_1": "3.05",
-    "Odd_X": "3.20",
-    "Odd_2": "2.27",
+    "Odd_1": "3.10",
+    "Odd_X": "3.25",
+    "Odd_2": "2.22",
     "Fixture_ID": "1215729",
     "Match_URL": "https://www.predictz.com/predictions/italy/serie-c/1215729/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -148,8 +148,8 @@
     "Fixture_ID": "1215779",
     "Match_URL": "https://www.predictz.com/predictions/italy/serie-c/1215779/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -167,8 +167,8 @@
     "Fixture_ID": "1191393",
     "Match_URL": "https://www.predictz.com/predictions/italy/serie-a/1191393/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -186,8 +186,8 @@
     "Fixture_ID": "1191388",
     "Match_URL": "https://www.predictz.com/predictions/italy/serie-a/1191388/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -205,8 +205,8 @@
     "Fixture_ID": "1192929",
     "Match_URL": "https://www.predictz.com/predictions/france/ligue-2/1192929/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -224,8 +224,8 @@
     "Fixture_ID": "1192275",
     "Match_URL": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192275/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -243,8 +243,8 @@
     "Fixture_ID": "1192273",
     "Match_URL": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192273/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -262,8 +262,8 @@
     "Fixture_ID": "1192274",
     "Match_URL": "https://www.predictz.com/predictions/netherlands/eerste-divisie/1192274/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -275,14 +275,14 @@
     "Away_Form": "LLDWW",
     "Prediction": "Home",
     "Predicted_Score": "2-0",
-    "Odd_1": "1.50",
-    "Odd_X": "4.20",
+    "Odd_1": "1.52",
+    "Odd_X": "4.10",
     "Odd_2": "6.00",
     "Fixture_ID": "1223210",
     "Match_URL": "https://www.predictz.com/predictions/belarus/premier-league/1223210/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -294,14 +294,14 @@
     "Away_Form": "LDDLL",
     "Prediction": "Home",
     "Predicted_Score": "4-0",
-    "Odd_1": "",
-    "Odd_X": "",
-    "Odd_2": "",
+    "Odd_1": "1.24",
+    "Odd_X": "6.00",
+    "Odd_2": "10.50",
     "Fixture_ID": "1223211",
     "Match_URL": "https://www.predictz.com/predictions/belarus/premier-league/1223211/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -319,8 +319,8 @@
     "Fixture_ID": "1214519",
     "Match_URL": "https://www.predictz.com/predictions/cyprus/first-division/1214519/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -338,8 +338,8 @@
     "Fixture_ID": "1214515",
     "Match_URL": "https://www.predictz.com/predictions/cyprus/first-division/1214515/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -357,8 +357,27 @@
     "Fixture_ID": "1191242",
     "Match_URL": "https://www.predictz.com/predictions/denmark/superliga/1191242/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
+  },
+  {
+    "Source": "predictz",
+    "League": "England Premier League Tips",
+    "Match": "FC Tallinn v Viimsi",
+    "Home_Team": "FC Tallinn",
+    "Away_Team": "Viimsi",
+    "Home_Form": "WLDWL",
+    "Away_Form": "WLLWD",
+    "Prediction": "Away",
+    "Predicted_Score": "0-1",
+    "Odd_1": "5.25",
+    "Odd_X": "4.55",
+    "Odd_2": "1.46",
+    "Fixture_ID": "1183089",
+    "Match_URL": "https://www.predictz.com/predictions/estonia/esiliiga/1183089/",
+    "match_date": "2026-10-19",
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -376,8 +395,8 @@
     "Fixture_ID": "1221572",
     "Match_URL": "https://www.predictz.com/predictions/greece/super-league-2/1221572/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -389,14 +408,14 @@
     "Away_Form": "LLWDW",
     "Prediction": "Home",
     "Predicted_Score": "2-1",
-    "Odd_1": "1.76",
-    "Odd_X": "3.25",
-    "Odd_2": "4.60",
+    "Odd_1": "1.70",
+    "Odd_X": "3.30",
+    "Odd_2": "4.90",
     "Fixture_ID": "1223086",
     "Match_URL": "https://www.predictz.com/predictions/greece/super-league-2/1223086/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -414,8 +433,8 @@
     "Fixture_ID": "1222491",
     "Match_URL": "https://www.predictz.com/predictions/iceland/urvalsdeild-playoffs/1222491/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -427,14 +446,14 @@
     "Away_Form": "LWLDW",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "2.07",
-    "Odd_X": "3.95",
-    "Odd_2": "3.10",
+    "Odd_1": "1.91",
+    "Odd_X": "3.60",
+    "Odd_2": "3.40",
     "Fixture_ID": "1171236",
     "Match_URL": "https://www.predictz.com/predictions/ireland/premier-division/1171236/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -448,12 +467,12 @@
     "Predicted_Score": "2-2",
     "Odd_1": "3.40",
     "Odd_X": "3.40",
-    "Odd_2": "2.13",
+    "Odd_2": "1.95",
     "Fixture_ID": "1171233",
     "Match_URL": "https://www.predictz.com/predictions/ireland/premier-division/1171233/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -471,8 +490,8 @@
     "Fixture_ID": "1182378",
     "Match_URL": "https://www.predictz.com/predictions/latvia/virsliga/1182378/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -490,8 +509,8 @@
     "Fixture_ID": "1182375",
     "Match_URL": "https://www.predictz.com/predictions/latvia/virsliga/1182375/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -503,14 +522,14 @@
     "Away_Form": "WWWLW",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "4.00",
-    "Odd_X": "3.40",
-    "Odd_2": "1.80",
+    "Odd_1": "3.75",
+    "Odd_X": "3.35",
+    "Odd_2": "1.88",
     "Fixture_ID": "1194121",
     "Match_URL": "https://www.predictz.com/predictions/lithuania/a-lyga/1194121/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -528,8 +547,8 @@
     "Fixture_ID": "1198759",
     "Match_URL": "https://www.predictz.com/predictions/montenegro/first-league/1198759/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -547,8 +566,8 @@
     "Fixture_ID": "1198760",
     "Match_URL": "https://www.predictz.com/predictions/montenegro/first-league/1198760/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -566,8 +585,8 @@
     "Fixture_ID": "1193435",
     "Match_URL": "https://www.predictz.com/predictions/poland/ekstraklasa/1193435/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -585,8 +604,8 @@
     "Fixture_ID": "1204253",
     "Match_URL": "https://www.predictz.com/predictions/portugal/primeira-liga/1204253/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -604,8 +623,8 @@
     "Fixture_ID": "1202157",
     "Match_URL": "https://www.predictz.com/predictions/romania/liga-i/1202157/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -618,13 +637,13 @@
     "Prediction": "Away",
     "Predicted_Score": "0-2",
     "Odd_1": "2.90",
-    "Odd_X": "3.25",
-    "Odd_2": "2.40",
+    "Odd_X": "3.30",
+    "Odd_2": "2.38",
     "Fixture_ID": "1199474",
     "Match_URL": "https://www.predictz.com/predictions/russia/premier-league/1199474/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -642,8 +661,8 @@
     "Fixture_ID": "1195103",
     "Match_URL": "https://www.predictz.com/predictions/serbia/prva-liga/1195103/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -661,8 +680,8 @@
     "Fixture_ID": "1173713",
     "Match_URL": "https://www.predictz.com/predictions/sweden/allsvenskan/1173713/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -680,8 +699,8 @@
     "Fixture_ID": "1173977",
     "Match_URL": "https://www.predictz.com/predictions/sweden/superettan/1173977/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -693,14 +712,14 @@
     "Away_Form": "WWWLW",
     "Prediction": "Home",
     "Predicted_Score": "3-1",
-    "Odd_1": "2.65",
+    "Odd_1": "2.50",
     "Odd_X": "3.50",
-    "Odd_2": "2.20",
+    "Odd_2": "2.35",
     "Fixture_ID": "1208036",
     "Match_URL": "https://www.predictz.com/predictions/turkey/super-lig/1208036/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -712,14 +731,14 @@
     "Away_Form": "WDDWD",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "2.25",
-    "Odd_X": "3.25",
-    "Odd_2": "2.75",
+    "Odd_1": "2.30",
+    "Odd_X": "3.30",
+    "Odd_2": "2.70",
     "Fixture_ID": "1",
     "Match_URL": "https://www.predictz.com/predictions/turkey/1-lig/1208667/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -737,8 +756,8 @@
     "Fixture_ID": "1",
     "Match_URL": "https://www.predictz.com/predictions/turkey/1-lig/1208670/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -756,8 +775,8 @@
     "Fixture_ID": "1",
     "Match_URL": "https://www.predictz.com/predictions/turkey/1-lig/1208662/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -775,8 +794,8 @@
     "Fixture_ID": "1",
     "Match_URL": "https://www.predictz.com/predictions/turkey/1-lig/1208671/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -788,14 +807,14 @@
     "Away_Form": "DDLWL",
     "Prediction": "Draw",
     "Predicted_Score": "1-1",
-    "Odd_1": "1.54",
+    "Odd_1": "1.55",
     "Odd_X": "4.00",
-    "Odd_2": "5.90",
+    "Odd_2": "5.70",
     "Fixture_ID": "1203981",
     "Match_URL": "https://www.predictz.com/predictions/ukraine/upl/1203981/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -807,14 +826,14 @@
     "Away_Form": "LDWWW",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "2.06",
+    "Odd_1": "2.10",
     "Odd_X": "3.45",
-    "Odd_2": "3.25",
+    "Odd_2": "3.15",
     "Fixture_ID": "1180298",
     "Match_URL": "https://www.predictz.com/predictions/chile/primera-b/1180298/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -826,14 +845,14 @@
     "Away_Form": "WWLWD",
     "Prediction": "Home",
     "Predicted_Score": "3-2",
-    "Odd_1": "3.60",
-    "Odd_X": "3.00",
-    "Odd_2": "2.20",
+    "Odd_1": "3.75",
+    "Odd_X": "3.10",
+    "Odd_2": "2.10",
     "Fixture_ID": "1215269",
     "Match_URL": "https://www.predictz.com/predictions/argentina/liga-profesional/1215269/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -846,13 +865,13 @@
     "Prediction": "Draw",
     "Predicted_Score": "1-1",
     "Odd_1": "1.86",
-    "Odd_X": "3.20",
+    "Odd_X": "3.10",
     "Odd_2": "5.00",
     "Fixture_ID": "1215272",
     "Match_URL": "https://www.predictz.com/predictions/argentina/liga-profesional/1215272/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -870,8 +889,8 @@
     "Fixture_ID": "1215280",
     "Match_URL": "https://www.predictz.com/predictions/argentina/liga-profesional/1215280/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -883,14 +902,14 @@
     "Away_Form": "DLLWW",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "2.10",
+    "Odd_1": "2.15",
     "Odd_X": "3.50",
-    "Odd_2": "2.85",
+    "Odd_2": "2.75",
     "Fixture_ID": "1224365",
     "Match_URL": "https://www.predictz.com/predictions/bolivia/primera-division/1224365/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -908,8 +927,84 @@
     "Fixture_ID": "1183616",
     "Match_URL": "https://www.predictz.com/predictions/brazil/serie-b/1183616/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
+  },
+  {
+    "Source": "predictz",
+    "League": "England Premier League Tips",
+    "Match": "Atletico Choloma v CD Olimpia",
+    "Home_Team": "Atletico Choloma",
+    "Away_Team": "CD Olimpia",
+    "Home_Form": "DLWLW",
+    "Away_Form": "WLWWW",
+    "Prediction": "Away",
+    "Predicted_Score": "0-3",
+    "Odd_1": "",
+    "Odd_X": "",
+    "Odd_2": "",
+    "Fixture_ID": "1222356",
+    "Match_URL": "https://www.predictz.com/predictions/honduras/liga-nacional/1222356/",
+    "match_date": "2026-10-19",
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
+  },
+  {
+    "Source": "predictz",
+    "League": "England Premier League Tips",
+    "Match": "Motagua v Marathon",
+    "Home_Team": "Motagua",
+    "Away_Team": "Marathon",
+    "Home_Form": "DWLWW",
+    "Away_Form": "WWLDW",
+    "Prediction": "Home",
+    "Predicted_Score": "3-2",
+    "Odd_1": "",
+    "Odd_X": "",
+    "Odd_2": "",
+    "Fixture_ID": "1222359",
+    "Match_URL": "https://www.predictz.com/predictions/honduras/liga-nacional/1222359/",
+    "match_date": "2026-10-19",
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
+  },
+  {
+    "Source": "predictz",
+    "League": "England Premier League Tips",
+    "Match": "Olancho v Platense",
+    "Home_Team": "Olancho",
+    "Away_Team": "Platense",
+    "Home_Form": "DDDDL",
+    "Away_Form": "LDLWL",
+    "Prediction": "Home",
+    "Predicted_Score": "2-0",
+    "Odd_1": "",
+    "Odd_X": "",
+    "Odd_2": "",
+    "Fixture_ID": "1222360",
+    "Match_URL": "https://www.predictz.com/predictions/honduras/liga-nacional/1222360/",
+    "match_date": "2026-10-19",
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
+  },
+  {
+    "Source": "predictz",
+    "League": "England Premier League Tips",
+    "Match": "Real Espana v Juticalpa",
+    "Home_Team": "Real Espana",
+    "Away_Team": "Juticalpa",
+    "Home_Form": "WDWWL",
+    "Away_Form": "LLWLL",
+    "Prediction": "Home",
+    "Predicted_Score": "2-0",
+    "Odd_1": "",
+    "Odd_X": "",
+    "Odd_2": "",
+    "Fixture_ID": "1222357",
+    "Match_URL": "https://www.predictz.com/predictions/honduras/liga-nacional/1222357/",
+    "match_date": "2026-10-19",
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -921,14 +1016,14 @@
     "Away_Form": "WWDLD",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "1.62",
-    "Odd_X": "4.00",
-    "Odd_2": "5.00",
+    "Odd_1": "1.61",
+    "Odd_X": "4.10",
+    "Odd_2": "5.25",
     "Fixture_ID": "1208553",
     "Match_URL": "https://www.predictz.com/predictions/mexico/la-division/1208553/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -940,14 +1035,14 @@
     "Away_Form": "DDLWD",
     "Prediction": "Away",
     "Predicted_Score": "0-1",
-    "Odd_1": "",
-    "Odd_X": "",
-    "Odd_2": "",
+    "Odd_1": "3.95",
+    "Odd_X": "3.55",
+    "Odd_2": "1.78",
     "Fixture_ID": "1221784",
     "Match_URL": "https://www.predictz.com/predictions/nicaragua/liga-primera/1221784/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -959,14 +1054,14 @@
     "Away_Form": "WWWLW",
     "Prediction": "Away",
     "Predicted_Score": "0-3",
-    "Odd_1": "",
-    "Odd_X": "",
-    "Odd_2": "",
+    "Odd_1": "8.70",
+    "Odd_X": "5.15",
+    "Odd_2": "1.27",
     "Fixture_ID": "1221783",
     "Match_URL": "https://www.predictz.com/predictions/nicaragua/liga-primera/1221783/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -984,8 +1079,8 @@
     "Fixture_ID": "1176841",
     "Match_URL": "https://www.predictz.com/predictions/georgia/erovnuli-liga/1176841/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -997,14 +1092,14 @@
     "Away_Form": "DWWLW",
     "Prediction": "Home",
     "Predicted_Score": "2-0",
-    "Odd_1": "1.77",
-    "Odd_X": "4.20",
-    "Odd_2": "3.40",
+    "Odd_1": "1.80",
+    "Odd_X": "4.15",
+    "Odd_2": "3.30",
     "Fixture_ID": "1217435",
     "Match_URL": "https://www.predictz.com/predictions/hong-kong/premier-league/1217435/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1016,14 +1111,14 @@
     "Away_Form": "WDWWW",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "2.56",
+    "Odd_1": "2.50",
     "Odd_X": "3.55",
-    "Odd_2": "2.36",
+    "Odd_2": "2.40",
     "Fixture_ID": "1217436",
     "Match_URL": "https://www.predictz.com/predictions/hong-kong/premier-league/1217436/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1035,14 +1130,14 @@
     "Away_Form": "DLWWL",
     "Prediction": "Draw",
     "Predicted_Score": "2-2",
-    "Odd_1": "2.45",
-    "Odd_X": "3.20",
-    "Odd_2": "2.78",
+    "Odd_1": "2.25",
+    "Odd_X": "3.25",
+    "Odd_2": "2.75",
     "Fixture_ID": "1223982",
     "Match_URL": "https://www.predictz.com/predictions/india/super-league/1223982/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1060,8 +1155,8 @@
     "Fixture_ID": "1222910",
     "Match_URL": "https://www.predictz.com/predictions/iran/pro-league/1222910/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1079,8 +1174,8 @@
     "Fixture_ID": "1222911",
     "Match_URL": "https://www.predictz.com/predictions/iran/pro-league/1222911/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1098,8 +1193,8 @@
     "Fixture_ID": "1222906",
     "Match_URL": "https://www.predictz.com/predictions/iran/pro-league/1222906/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1117,8 +1212,8 @@
     "Fixture_ID": "1224558",
     "Match_URL": "https://www.predictz.com/predictions/oman/professional-league/1224558/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1136,8 +1231,8 @@
     "Fixture_ID": "1224559",
     "Match_URL": "https://www.predictz.com/predictions/oman/professional-league/1224559/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1155,8 +1250,8 @@
     "Fixture_ID": "1214263",
     "Match_URL": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214263/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1174,8 +1269,8 @@
     "Fixture_ID": "1214262",
     "Match_URL": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214262/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1193,8 +1288,8 @@
     "Fixture_ID": "1214255",
     "Match_URL": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214255/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1212,8 +1307,27 @@
     "Fixture_ID": "1214257",
     "Match_URL": "https://www.predictz.com/predictions/saudi-arabia/professional-league/1214257/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
+  },
+  {
+    "Source": "predictz",
+    "League": "England Premier League Tips",
+    "Match": "Xorazm v Bukhara",
+    "Home_Team": "Xorazm",
+    "Away_Team": "Bukhara",
+    "Home_Form": "LDLDD",
+    "Away_Form": "LLLWW",
+    "Prediction": "Away",
+    "Predicted_Score": "0-1",
+    "Odd_1": "",
+    "Odd_X": "",
+    "Odd_2": "",
+    "Fixture_ID": "1181115",
+    "Match_URL": "https://www.predictz.com/predictions/uzbekistan/super-league/1181115/",
+    "match_date": "2026-10-19",
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1231,8 +1345,8 @@
     "Fixture_ID": "1219895",
     "Match_URL": "https://www.predictz.com/predictions/vietnam/v-league/1219895/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1250,8 +1364,8 @@
     "Fixture_ID": "1218898",
     "Match_URL": "https://www.predictz.com/predictions/egypt/premier-league/1218898/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1269,8 +1383,8 @@
     "Fixture_ID": "1218899",
     "Match_URL": "https://www.predictz.com/predictions/egypt/premier-league/1218899/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1288,8 +1402,8 @@
     "Fixture_ID": "1220041",
     "Match_URL": "https://www.predictz.com/predictions/kenya/premier-league/1220041/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   },
   {
     "Source": "predictz",
@@ -1307,7 +1421,7 @@
     "Fixture_ID": "1220033",
     "Match_URL": "https://www.predictz.com/predictions/kenya/premier-league/1220033/",
     "match_date": "2026-10-19",
-    "Match_Category": "future",
-    "scraped_at": "2026-10-17 18:00:44"
+    "Match_Category": "tomorrow",
+    "scraped_at": "2026-10-18 11:41:40"
   }
 ]

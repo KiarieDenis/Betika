@@ -5,7 +5,7 @@ on:
   push:
     branches: ["master", "main"]
   schedule:
-    - cron: "0 2 * * *"   # Run daily at 02:00 UTC (adjust as needed)
+    - cron: "0 8 * * *"   # Run daily at 02:00 UT (adjust as needed)
 
 jobs:
   scrape-and-store:

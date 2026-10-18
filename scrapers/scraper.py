@@ -31,6 +31,10 @@ except ImportError:
     CurlSession = None
 
 import cloudscraper
+try:
+    from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+except ImportError:
+    sync_playwright = None
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -98,7 +102,29 @@ def fetch_html(url: str, session) -> Optional[str]:
         if attempt < MAX_RETRIES:
             time.sleep(RETRY_DELAY_SECONDS)
     print(f"  [ERROR] giving up on {url}")
+    print(f"  [ERROR] giving up on {url}, trying Playwright fallback...")
+    if sync_playwright:
+        html = _playwright_fetch(url)
+        if html:
+            return html
     return None
+
+def _playwright_fetch(url: str) -> Optional[str]:
+    """Fetch page using Playwright headless browser as a last resort."""
+    if not sync_playwright:
+        print("  [WARN] Playwright not installed, cannot bypass Cloudflare.")
+        return None
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.goto(url, timeout=REQUEST_TIMEOUT * 1000)
+            html = page.content()
+            browser.close()
+            return html
+    except Exception as e:
+        print(f"  [WARN] Playwright fetch failed for {url}: {e}")
+        return None
 
 
 # ------------------------------------------------------------------
